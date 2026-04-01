@@ -1,17 +1,22 @@
 # Sistema de Inventario en Python
 
-Proyecto desarrollado en Python que permite gestionar productos mediante consola.
+Aplicación desarrollada en Python que permite gestionar un inventario de productos mediante consola.
 
 ## Funcionalidades
+
 - Agregar productos
-- Mostrar productos
+- Mostrar inventario
 - Buscar productos
 - Eliminar productos
-- Guardado de datos en archivo JSON
+- Persistencia de datos usando JSON
 
-## Tecnologías usadas
+## Tecnologías utilizadas
+
 - Python
-- JSON (persistencia de datos)
+- Manejo de archivos (JSON)
+- Programación estructurada
 
-## Objetivo
-Desarrollar habilidades en lógica de programación y construcción de aplicaciones prácticas.
+## Cómo ejecutar el proyecto
+
+```bash
+python main.py
